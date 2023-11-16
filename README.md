@@ -8,4 +8,4 @@ Power BI: https://app.powerbi.com/view?r=eyJrIjoiOTIzNTk2NzktOTc2YS00YjJlLTk5ZTQ
 
 
 **Conclusão** \
-Tentando responder a pergunta _“Como fazer os operadores fecharem mais acordos?”_ pude identificar que o segundo operador com mais ligações (operador 86) teve muitos acordos. Ele fechou 18 de 19 ligações (95%). Caso isso não seja conseguencia de algo muito átipico no processo, uma estratégia interessante seria verificar como foram essas ligações para encontrar pontos chave que possam ajudar outros operadores a terem maior sucesso.
+Tentando responder a pergunta _“Como fazer os operadores fecharem mais acordos?”_ pude identificar que o segundo operador com mais ligações (operador 86) teve muitos acordos. Ele fechou 18 de 19 ligações (95%). Caso isso não seja consequências de algo muito atípico no processo, uma estratégia interessante seria verificar como foram essas ligações para encontrar pontos chave que possam ajudar outros operadores a terem maior sucesso.
